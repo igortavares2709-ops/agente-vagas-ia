@@ -1,0 +1,66 @@
+{
+  "name": "IGOR BARROSO TAVARES",
+  "headline": "Estudante de Inteligência Artificial | AI Builder | Dados de IA, Automação e Agentes",
+  "contact": [
+    "Fortaleza, Ceará · +55 (85) 90000-0000 · seu.email@exemplo.com",
+    "LinkedIn: linkedin.com/in/igor-barroso-171b59263 · GitHub: github.com/igortavares2709-ops"
+  ],
+  "labels": {
+    "summary": "Resumo",
+    "projects": "Projetos de IA Aplicada",
+    "skills": "Competências",
+    "education": "Formação e Cursos",
+    "extra": "Experiência com Dados de IA, Transcrição e Mídia"
+  },
+  "summary": "Estudante de Bacharelado em Inteligência Artificial na Universidade de Fortaleza, com conclusão prevista para junho de 2028. Transformo necessidades de usuários e processos em protótipos funcionais com IA, combinando prompt engineering, agentes, automação, interfaces e APIs. Tenho experiência prática com transcrição (incluindo como repórter judicial e estenógrafo), legendagem e legendagem oculta, anotação e rotulagem de dados para treinamento de IA e controle de qualidade de mídia, além de formação na área de linguagem e base técnica em Python e engenharia de IA.",
+  "projects": [
+    {
+      "title": "FoodAgent AI — agente para atendimento de delivery",
+      "links": "Código: github.com/igortavares2709-ops/foodagent-ai · Demo: foodagent-ai-igortavares2709.onrender.com",
+      "bullets": [
+        "Modelei uma jornada de atendimento capaz de consultar pedidos, explicar políticas e simular solicitações sensíveis com revisão humana.",
+        "Transformei o fluxo em uma demonstração utilizável com Streamlit, FastAPI, PostgreSQL, RAG e LangGraph; mantive o produto funcional mesmo sem créditos de LLM por meio de fallback.",
+        "Defini indicadores de qualidade verificáveis: 53 testes aprovados, avaliação funcional 4/4, fontes nas respostas, request ID, logs e métricas.",
+        "Apliquei proteção contra prompt injection, mascaramento de dados, validação e ações fictícias para demonstrar uso responsável de IA."
+      ]
+    },
+    {
+      "title": "Tô com Fome Fortaleza IA — descoberta gastronômica por linguagem natural",
+      "links": "Código: github.com/igortavares2709-ops/to-com-fome-fortaleza-ia · Demo pública disponível no repositório",
+      "bullets": [
+        "Converto pedidos em português em filtros de bairro, culinária, raio, entrega, acessibilidade e dieta, com explicações e fontes.",
+        "Estruturei uma experiência que reduz a busca manual e evita recomendações inventadas, separando interpretação por IA de regras determinísticas.",
+        "Entreguei protótipo público com fallback local e avaliação reproduzível: 50/50 casos corretos e evidência em 100% dos resultados avaliados."
+      ]
+    }
+  ],
+  "skills": [
+    [
+      "AI Builder",
+      "descoberta de problemas · desenho de jornadas · prototipação rápida · prompt engineering · agentes · RAG · automação com n8n e integração de sistemas externos · métricas e avaliação · uso responsável de IA"
+    ],
+    [
+      "Dados de IA e mídia",
+      "transcrição de áudio/vídeo · estenografia · legendagem e legendagem oculta · anotação e rotulagem de dados · edição de áudio · QA de conteúdo"
+    ],
+    [
+      "Tecnologia",
+      "Python · JavaScript · FastAPI · APIs REST · PostgreSQL · Streamlit · LangGraph · Docker · Git/GitHub · GitHub Actions · testes automatizados"
+    ],
+    [
+      "Idiomas",
+      "Português (nativo) · Inglês (básico, leitura de documentação técnica)"
+    ]
+  ],
+  "education": [
+    "Bacharelado em Inteligência Artificial — Universidade de Fortaleza (Unifor) · Cursando · conclusão prevista: 06/2028",
+    "Formação em Linguística / Letras (área relacionada à linguagem)",
+    "Inglês Básico — CNA Idiomas · Informática Intermediária — Faculdade Prepara · Noções de Finanças Pessoais — Banco do Nordeste"
+  ],
+  "extra": [
+    "• Experiência como transcritor, repórter judicial e estenógrafo: transcrição de áudio e vídeo com precisão, pontuação e formatação.",
+    "• Legendagem, legendagem oculta (closed captions) e edição de legendas, com sincronização/alinhamento de tempo; familiaridade com softwares de transcrição e ferramentas de sincronização.",
+    "• Uso de plataformas de anotação e rotulagem de dados em fluxos de trabalho de treinamento de IA.",
+    "• Edição de áudio e garantia de qualidade (QA) de conteúdo de mídia."
+  ]
+}
